@@ -16,7 +16,11 @@ cd Layeredge
 
 ### Start the Installation:
 ```bash
-./install_layeredge_node.sh
+./layeredge_node.sh
+```
+
+```bash
+chmod +x ./layeredge_node.sh
 ```
 
 ### Or use this single command to automate the process ⬇️
